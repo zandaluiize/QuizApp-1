@@ -1,3 +1,4 @@
 # QuizApp
 This is a project for testing application.
-Author - Sannie.
+Author - Marx.
+https://red-bulinsh.herokuapp.com/
