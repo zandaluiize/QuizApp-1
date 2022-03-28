@@ -16,6 +16,8 @@ def health():
 
 @app.route('/test')
 def test():
+  parametri = ["IQ","Augums","Kājas izmērs"]
+  images = ["https://www.google.com/url?sa=i&url=https%3A%2F%2Fsnl.no%2FGoogle&psig=AOvVaw28z_X5IU8r-6BwErqgXGvX&ust=1648534514844000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCKixg82T6PYCFQAAAAAdAAAAABAY","https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bbc.com%2Fnews%2Fbusiness-55660682&psig=AOvVaw28z_X5IU8r-6BwErqgXGvX&ust=1648534514844000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCKixg82T6PYCFQAAAAAdAAAAABAd","https://www.google.com/url?sa=i&url=https%3A%2F%2Ftechcrunch.com%2F2020%2F10%2F06%2Fgoogles-new-logos-are-bad%2F&psig=AOvVaw28z_X5IU8r-6BwErqgXGvX&ust=1648534514844000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCKixg82T6PYCFQAAAAAdAAAAABAj"]
   return render_template("test.html")
 
 @app.route('/about')
