@@ -1,18 +1,15 @@
 <html>
-<body>
-    <h1>
-        Parametri no servera
-    </h1>
-    (% for par in parametri)
-    <h2>
-        {{par}}
-    </h2>
-    {% endfor %}
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <body>
+        <h1>Parametri no servera</h1>
+        {% for par in parametri %} 
+        <h2> {{par}} </h2>
+        {% endfor %}
 
-    {% for image in images %}
-    <img src="{{image}}" width="400"/>
-    <br>
-    {% endfor %}
-    <p>Šis ir bildes!</p>
-</body>
+        {% for image in images %}
+        <img src="{{image}}" width="400"/>
+        <br>
+        {% endfor %}
+        <p>Šīs ir bildes!</p>
+    </body>
 </html>
