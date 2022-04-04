@@ -1,3 +1,15 @@
 ;Jautajums:Atbilde-Atbilde2-Atbilde3-Atbilde4
 ;Jautajums:Atbilde-Atbilde2-Atbilde3-Atbilde4
-;kura parole ir visdrosaka:atbilde-pupsiks-12345-jktg2887*
+;Which one is the first search engine in internet:Google-Archie-Altavista-WAIS
+;Number of bit used by the IPv6 address:32 bit-64 bit-128 bit-256 bit
+;Which one is the first web browser invented in 1990:Internet Explorer-Mosaic-Nexus-Mozilla
+;Which of the following programming language is used to create programs like applets?:COBOL-C Language-Java-BASIC
+;First computer virus is known as: Rabbit-Creeper Virus-Elk Cloner- SCA Virus
+;Which one programming language is exclusively used for artificial intelligence:Prolog-J2EE-Java-C
+;Firewall in computer is used for:Security-Data Transmission-Authentication-Monitoring
+;A dual layer Blue-ray Disc can store data upto:20GB- 35 GB- 12 GB- 50 GB
+;Which of the following is not an operating system:DOS-Mac-C-Linux
+;Which of the following is not a database management software:MySQL-Oracle-Sybase-COBOL
+;Number of layers in the OSI (Open Systems Interconnection) Model:9-3-7-11
+;1024 bit is equal to how many byte:1 Byte-128 Byte-32 Byte-64 Byte
+
